@@ -1,0 +1,409 @@
+/*****Body*****/
+body {
+font-family: "Adobe-caslon-pro", serif;
+}
+h1 {
+font-family:
+"Adobe-caslon-pro-bold", serif;
+}
+h2 h3 h5 {
+font-family: "P22-underground", sans-serif;
+}
+h2 {
+color: #fff;
+}
+#portfolio {
+height: 1542px;
+}
+#about {
+height: 550px;
+}
+#contact {
+height: 450px;
+}
+/*****Grid*****/
+.full-width {
+width: 1440px;
+margin: 0;
+padding: 0;
+background: #fff;
+}
+.half-width {
+width: 720px;
+float: left;
+background: #fff;
+}
+/*****Header****/
+header {
+background-image: url('../img/header-1440c.png');
+background-size: cover;
+width: 1440px;
+height: 808px;
+}
+header h1 {
+width: 350px;
+float: Right;
+font-size: 76px;
+font-family: "Adobe-caslon-pro", serif;
+color: #d13540;
+}
+.blue {
+width: 553px;
+padding-top: 0px;
+height: 760px;
+float: left;
+}
+.blue-words {
+width: 400px;
+height: 36px;
+padding-top: 50px;
+padding-left: 50px;
+}
+.blue h2 {
+font-size: 22px;
+font-family: "P22-underground-bold", sans-serif;
+color: #fff;
+padding-top: 200px;
+padding-right: 0px;
+padding-left: 32px;
+}
+header h3 {
+font-size: 16px;
+font-family: "P22-underground", sans-serif;
+color: #d13b40;
+letter-spacing: 3px;
+padding-right: 200px;
+}
+.big-letters {
+border: 2px solid #d13540;
+float: right;
+width: 600px;
+height: 400px;
+background-color:
+#fff;
+margin-top: 110px;
+margin-right: 148px;
+margin-bottom: 10px;
+padding: 2px;
+position: relative;
+}
+.code h1 {
+position: absolute;
+padding-left: 100px;
+text-align: center;
+font-size: 72px;
+font-family: "Adobe-caslon-pro-bold", serif;
+line-height: 1.5em;
+color: #d13540;
+}
+.red-bar {
+width: 885px;
+height: 102px;
+background-color: #d13540;
+position: absolute;
+padding-bottom: 0px;
+margin-bottom: 0px;
+margin-left: 550px;
+margin-top: 706px;
+width: 870px;
+padding-left: 20px;
+}
+.bar-words h3 {
+color: #fff;
+letter-spacing: 7px;
+font-family: "Adobe-caslon-pro", serif;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-left: 10px;
+padding-right: 10px;
+margin-right: 5px;
+margin-left: 5px;
+}
+nav {
+width: 1440px;
+}
+.half-width ul {
+list-style-type: none;
+margin: 0;
+width: 1440px;
+padding-bottom: 3px;
+overflow: hidden;
+background-color: #fff;
+}
+li {
+float: left;
+font-size: 20px;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+padding-left: inherit;
+text-decoration: underline;
+}
+li a {
+display: block;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+color: #254769;
+text-align: center;
+padding: 14px 20px 14px;
+text-decoration: none;
+}
+/* ***Change the link color  on hover ******/
+li a:hover {
+background-color: #d13b40;
+}
+.full-width h2 {
+text-align: center;
+color: #d13b40;
+font-size: 36px;
+font-family: "P22-underground", sans-serif;
+margin: 0;
+}
+
+
+/******start of Portfolio section*****/
+.heading {
+width: 1438px;
+height: 36px;
+margin: 0;
+}
+.heading h2 {
+color: #fff;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+background-color: #254769;
+margin-top: 0px;
+padding-top: 4px;
+width: 1438px;
+height: 40px;
+text-align: center;
+font-size: 32px;
+}
+#portfolio {
+border: 3px solid #254769;
+width: 1436px;
+height: 1550px;
+margin: 0px;
+padding-bottom: 0px;
+border-bottom: 0px;
+}
+.box-one {
+width: 1440px;
+height: 516px;
+margin: 5px;
+padding: 16px;
+}
+.rogue {
+width: 550px;
+height: 280px;
+margin: 20px;
+padding-top: 100px;
+padding-right: 20px;
+float: left;
+}
+.text-one {
+width: 550px;
+height: 280px;
+float: right;
+text-align: justify;
+padding-top: 100px;
+padding-right: 80px;
+margin: 20px;
+}
+.text-one, h3, h5 {
+font-size: 24px;
+font-family: "P22-underground", sans-serif;
+text-align: center;
+}
+.text-one h3 {
+font-size: 24px;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+color: #615e5e;
+}
+.text-one h5 {
+font-size: 24px;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+color: #615e5e;
+}
+.text-one p {
+font-size: 16px;
+font-family: "Adobe-caslon-pro", serif;
+color: #4f4a40;
+text-align: center;
+}
+.box-two {
+width: 1440px;
+height: 516px;
+clear: both;
+margin: 5px;
+padding: 16px;
+}
+.reverse {
+width: 550px;
+height: 280px;
+margin: 20px;
+padding-top: 100px;
+padding-right: 80px;
+float: right;
+}
+.text-j {
+width: 550px;
+height: 280px;
+float: left;
+padding-top: 100px;
+padding-left: 20px;
+text-align: center;
+margin: 20px;
+}
+.text-j h3 {
+font-size: 24px;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+color: #4f4a40;
+text-align: center;
+}
+.text-j h5 {
+font-size: 24px;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+}
+.box-three {
+width: 1440px;
+height: 350px;
+margin: 5px;
+padding: 16px;
+}
+.holstee-m {
+width: 550px;
+height: 280px;
+margin: 20px;
+padding: 16px;
+float: left;
+}
+.text-h {
+width: 550px;
+height: 280px;
+float: right;
+text-align: center;
+padding: 16px;
+margin: 20px;
+}
+.text-h h3, h5 {
+font-size: 24px;
+font-family: "P22-underground", sans-serif;
+font-variant: small-caps;
+color: #4f4a40;
+text-align: center;
+}
+
+
+/******About******/
+#about {
+background-image: url('../img/about-me.png');
+padding-top: 0px;
+width: 1440px;
+height: 550px;
+}
+.full-width-about {
+padding-left: 50px;
+}
+.full-width-about h2 {
+font-size: 27px;
+font-family: "P22-underground", sans-serif;
+color: #d13540;
+font-variant: small-caps;
+padding-top: 25px;
+margin: 0px;
+}
+.full-width-about h5 {
+text-align: left;
+font-size: 22px
+}
+.full-width-about p {
+font-family: "Adobe-caslon-pro", serif;
+font-size: 16px;
+}
+.full-width-about ul {
+list-style-type: square;
+margin: 0;
+width: 220px;
+padding-bottom: 3px;
+padding-left: 20px;
+overflow: hidden;
+}
+.full-width-about li {
+line-height: 1.5em;
+font-family: "Adobe-caslon-pro", serif;
+font-size: 18px;
+}
+/*****Contact*****/
+#contact {
+background-color: #254769;
+width: 1440px;
+}
+#contact .full-width h2 {
+font-size: 27px;
+font-family: "P22-underground", sans-serif;
+color: #d13540;
+font-variant: small-caps;
+text-align: center;
+padding-top: 25px;
+width: 1440px;
+}
+.icons nav {
+width: 1440px;
+height: 300px;
+padding-left: 200px;
+padding-top: 100px;
+}
+.icons ul {
+list-style: none;
+margin: 0;
+padding-left: 90px;
+}
+.icons li a {
+width:60px;
+padding: 0px;
+margin: 1px;
+}
+
+
+/*****Rogue page*****/
+.container {
+background-image: url('../img/rogue-pickings.png');
+width: 1440px;
+height: 700px;
+border-bottom: 5px solid #254769;
+}
+.words {
+width: 900px;
+}
+.words h2 {
+font-family: "P22-underground", sans-serif;
+text-align: left;
+padding-left: 150px;
+padding-top: 20px;
+color: #d13540;
+}
+.words p {
+text-align: left;
+padding-left: 150px;
+}
+
+
+/*******Jubilee-Austen page****/
+.container {
+background-image: url('../img/webs.png');
+width: 1440px;
+height: 700px;
+}
+
+
+/********Holstee page******/
+.container {
+background-image: url('../img/holstee1440.png');
+width: 1440px;
+height: 700px;
+border-top: 10px solid #fff;
+}
